@@ -1,0 +1,52 @@
+.flagBanner{
+    max-height: 500px;
+    width: 100%;
+    opacity: .50;
+}
+
+.container{
+    background-color: #fbe0c4;
+    
+}
+
+body{
+    background-color:#8ab6d6;
+    font-family: 'Playfair Display', serif;
+}
+
+
+#title{
+    padding: 20px;
+}
+
+.carousel {
+    width:640px;
+    height:360px;
+  }
+
+  .list-group-item{
+      background-color: #fbe0c4;
+    
+  }
+
+  .card{
+      background-color: #2978b5;
+      color: #fbe0c4;
+  }
+
+  .footer{
+      background-color: #0061a8;
+  }
+
+  #footer-container{
+      background-color: #0061a8;
+  }
+
+  .footer .list-group-item{
+    background-color: #0061a8;
+    color: #fbe0c4;
+  }
+
+  .link{
+      color: #fbe0c4;
+  }
